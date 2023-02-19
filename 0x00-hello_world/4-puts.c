@@ -6,9 +6,9 @@
 #include <stdio.h>
 
 /* This is the main program that prints the out */
-
 int main(void)
 {
-	puts("\"programming is like building a multilingual puzzle");
-	return(0);
+	puts("\"Programming is like building a multilingual puzzle");
+
+	return (0);
 }
