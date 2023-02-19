@@ -3,8 +3,8 @@
 /**
  * main - entery way
  *
- * Description: 'writes a statement with printf'
- * Returns 0
+ * main - 'writes a statement with printf'
+ * Return: Always 0
  */
 
 int main(void)
