@@ -4,3 +4,6 @@
  *           in the main function of other code as long as i include the file
  *           using #include "header_filename.h" in the code
  */
+
+int _putchar(char c);
+void print_alphabet(void);
