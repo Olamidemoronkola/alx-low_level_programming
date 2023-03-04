@@ -4,8 +4,8 @@
 
 /**
  * _abs - a function that computes the absolute value of an integer
- * @ab: integer input
- * Return: absolute value of ab
+ * @xy: integer input
+ * Return: absolute value of xy
  */
 int _abs(int xy)
 {
